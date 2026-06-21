@@ -1,2 +1,14 @@
 # huatihuiguide-notes
-HTML page archive and documentation
+
+页面内容归档仓库
+
+本仓库承载生成后的页面文件，便于跟踪每次提交内容。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 管理说明
+
+本仓库适合保存多个独立页面，不依赖额外构建流程。
